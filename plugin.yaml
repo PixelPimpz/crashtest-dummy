@@ -1,0 +1,8 @@
+name: "crashtest-dummy"
+title: "Crashtest Dummy"
+icon: "plug"
+enabled: "ON"
+unit: "pre-foot"
+only_main: 1
+start: "init.sh"
+draw: "crashtest_draw"
